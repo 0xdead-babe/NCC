@@ -1,0 +1,12 @@
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\bin\Debug\net6.0\DemoClassLibrary.deps.json
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\bin\Debug\net6.0\DemoClassLibrary.dll
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\bin\Debug\net6.0\DemoClassLibrary.pdb
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.AssemblyInfo.cs
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.dll
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\refint\DemoClassLibrary.dll
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\DemoClassLibrary.pdb
+C:\Users\Asus\Desktop\Ncc\BasicLanguage\DemoClassLibrary\obj\Debug\net6.0\ref\DemoClassLibrary.dll

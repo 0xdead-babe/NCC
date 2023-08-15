@@ -1,0 +1,20 @@
+﻿@model List<Student> // model it is expection //razor syntaz
+@{
+    ViewData["Title"] = "Student";
+}
+
+<p>
+    @foreach(var student in Model)
+    {
+        <h1>
+            @student.Id
+        </h1>
+         <h1>
+            @student.Name
+        </h1>
+        <h1>
+            @student.Age
+        </h1>
+    }
+</p>
+

@@ -1,0 +1,25 @@
+﻿@model List<Student>
+
+@{
+    ViewData["Title"] = "Students Data";
+
+}
+
+<div>
+    
+        @foreach(Student s in Model)
+        {
+            <div class="flex-md-row justify-content-between">
+            <p>@s.Name</p>
+            <a class="btn-danger text-white"   asp-action="Delete" asp-route-id="@s.Id">Delete</a>
+            <a class="btn-primary text-white" asp-action="Edit" asp-route-id="@s.Id">Edit</a>
+
+            </div>
+        }
+
+
+        <a asp-controller="Student" asp-action="Create">
+            Add new Student 
+        </a>
+    
+</div>
